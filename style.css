@@ -12,6 +12,7 @@
 
 body {
   font-family: "Work Sans", sans-serif;
+  background: url('images/balloon-birthday.jpg') no-repeat center center/cover;
 }
 
 a {
