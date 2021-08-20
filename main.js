@@ -7,6 +7,7 @@ function reverseString(str) {
 
 function isStringPalindrome(str) {
   var reversedString = reverseString(str);
+  console.log(reversedString)
   return str === reversedString;
 }
 
